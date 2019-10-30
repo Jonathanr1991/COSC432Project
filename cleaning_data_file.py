@@ -44,3 +44,60 @@ for y in performance:
     else:
         testing.write(y)
         count=1
+
+count = 1
+
+for y in maintainability:
+    if count==1 or count==2:
+        print(y)
+        training.write(y)
+        count= count+1
+        print (count)
+    elif count==3:
+        validate.write(y)
+        count =count+1
+    else:
+        testing.write(y)
+        count=1
+
+count = 1
+
+for y in operational:
+    if count==1 or count==2:
+        print(y)
+        training.write(y)
+        count= count+1
+        print (count)
+    elif count==3:
+        validate.write(y)
+        count =count+1
+    else:
+        testing.write(y)
+        count=1
+
+for y in security:
+    if count==1 or count==2:
+        print(y)
+        training.write(y)
+        count= count+1
+        print (count)
+    elif count==3:
+        validate.write(y)
+        count =count+1
+    else:
+        testing.write(y)
+        count=1
+
+
+for y in usability:
+    if count==1 or count==2:
+        print(y)
+        training.write(y)
+        count= count+1
+        print (count)
+    elif count==3:
+        validate.write(y)
+        count =count+1
+    else:
+        testing.write(y)
+        count=1
