@@ -33,12 +33,14 @@ for x in text:
 count = 1
 
 for y in performance:
-    if (count==1 or count==2):
+    if count==1 or count==2:
+        print(y)
         training.write(y)
-        count+1
-    if (count==3):
+        count= count+1
+        print (count)
+    elif count==3:
         validate.write(y)
-        count+1
-    if (count==4):
+        count =count+1
+    else:
         testing.write(y)
         count=1
