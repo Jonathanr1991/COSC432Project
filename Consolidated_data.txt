@@ -1,4 +1,4 @@
-training_data.append({"class":"acccess control","sentence":"Click on 'Insurance Numbers' to see a list of your clinic's providers and their default ID numbers."})
+training_data.append({"class":"access control","sentence":"Click on 'Insurance Numbers' to see a list of your clinic's providers and their default ID numbers."})
 training_data.append({"class":"access control","sentence":"-  Allows read access to authorized Users only"})
 training_data.append({"class":"access control","sentence":"-  Passwords can only be changed by the authorized County System Administrator or the associated user"})
 training_data.append({"class":"access control","sentence":"- Prevents modifications to the audit records"})
