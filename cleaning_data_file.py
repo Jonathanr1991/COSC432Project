@@ -9,6 +9,7 @@ validate = open("validate.txt", "w")
 #creating a file where to place the testing data 20%
 testing = open("testing.txt", "w")
 
+#List that will hold 
 performance =[]
 maintainability=[]
 operational=[]
@@ -32,12 +33,12 @@ for x in text:
 
 count = 1
 
+
+#seperate each list of nonfunctional requirements into 3 files 40% to training 20% to validation and 20% testing
 for y in performance:
     if count==1 or count==2:
-        print(y)
         training.write(y)
         count= count+1
-        print (count)
     elif count==3:
         validate.write(y)
         count =count+1
@@ -49,10 +50,8 @@ count = 1
 
 for y in maintainability:
     if count==1 or count==2:
-        print(y)
         training.write(y)
         count= count+1
-        print (count)
     elif count==3:
         validate.write(y)
         count =count+1
@@ -64,10 +63,8 @@ count = 1
 
 for y in operational:
     if count==1 or count==2:
-        print(y)
         training.write(y)
         count= count+1
-        print (count)
     elif count==3:
         validate.write(y)
         count =count+1
@@ -77,10 +74,8 @@ for y in operational:
 
 for y in security:
     if count==1 or count==2:
-        print(y)
         training.write(y)
         count= count+1
-        print (count)
     elif count==3:
         validate.write(y)
         count =count+1
@@ -91,10 +86,8 @@ for y in security:
 
 for y in usability:
     if count==1 or count==2:
-        print(y)
         training.write(y)
         count= count+1
-        print (count)
     elif count==3:
         validate.write(y)
         count =count+1

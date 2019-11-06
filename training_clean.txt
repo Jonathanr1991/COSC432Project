@@ -1,0 +1,390 @@
+capacity performance- 90% tasks complete within 5 seconds.
+capacity performance- 98% tasks complete within 8 seconds.
+capacity performance- 10% time response time should not more than 10 seconds.
+capacity performance- no lead evaluation will complete time period longer than 25 seconds 97% leads processed.
+capacity performance- recreation inventory quantity adjustment period previous 30 days take no more than 30min.
+capacity performance- able handle user requests usage during business hours.
+capacity performance- average number recycled parts records per day 50 000.
+capacity performance- cma report returned no later 60 seconds after user has entered cma report criteria.
+capacity performance- maximum wait time user navigating one screen another within disputes application no more than 5 seconds.
+capacity performance- peak cpu utilization never exceed 70% cpu capacity at any given time.
+capacity performance- process must fit within processing time conditions set forth by auto rep assignment process which lead is assigned within 3 minutes total life cycle.
+capacity performance- interface should fast.
+capacity performance- able handle 10 000 concurrent users within 2 years initial launch.
+capacity performance- able handle up 1500 simultaneous users.
+capacity performance- capable handling existing 1000 users.
+capacity performance- capable handling up 1 000 concurrent requests.
+capacity performance- maximum message processing time 2 seconds
+capacity performance- process messages within 2 seconds.
+capacity performance- provide multi-threading technology as well as load balancing overcome data load spikes traffic.
+capacity performance- respond fast keep up-to-date data display.
+capacity performance- recycled parts audit report returned user within 10 seconds.
+capacity performance- response time most common requests reach user not exceed 3 seconds.
+capacity performance- response time fast enough maintain flow game.
+capacity performance- response time no more than 2 seconds 95% responses no more than 4% remaining responses.
+capacity performance- search preferred repair facility take no longer than 8 seconds.
+capacity performance- search results returned under 15 seconds.
+capacity performance- solution complete average 99% online update transactions under 5 seconds over any 60-minute period, during peak usage.
+capacity performance- solution track uptime transaction response times order demonstrate operation within acceptable levels.
+capacity performance- capable processing 100% nursing students their classes next 10 years.
+capacity performance- expected manage nursing program curriculum class clinical scheduling minimum 5 years.
+capacity performance- response time where average transaction on server needs occur on average less than 1 second.
+capacity performance- include documentation capacities (e.g. number users, number transactions per second, number records, network load, etc.) baseline representative configurations assumed these capacities (e.g. number type processors, server workstation configuration network capacity, etc).
+capacity performance- will need support capability up beyond 5000 default schedules.
+capacity performance- system, including programs, database, ancillary hardware related software systems able retain its performance levels when adding additional users, functions, data.
+capacity performance- this number is expected grow 5 times within next year
+capacity performance- this number will increase 2 000 by release 2.
+capacity performance"- he response time fast enough maintain flow game.
+functional- has capability provide system-wide quality reporting physician specific performance feedback.
+maintainability- utilize utilities database performance monitoring tuning that comply with industry standards, including but not limited tools table & file maintenance.
+other nonfunctional- has capability support remote monitoring technology, such as network access control, performance monitoring,
+maintainability- proposer test application enhancements, fixes, upgrades assure integrity resulting data.
+maintainability- (1) accept promptly process any standard transaction that contains codes that are valid, as provided subpart j this part.
+maintainability- (1) asc x12n 837â€”health care claim: dental, version 4010, may 2000, washington publishing company, 004010x097 addenda health care claim: dental, version 4010, october 2002, washington publishing company, 004010x097a1, as referenced â§162.1102 â§162.1802.
+maintainability- (1) telecommunication standard implementation guide version 5, release 1 (version 5.1), september 1999, national council prescription drug programs, as referenced â§162.1102, â§162.1202, â§162.1302, â§162.1602, â§162.1802.
+maintainability- (2) national drug codes (ndc), as maintained distributed by hhs, reporting following by retail pharmacies:
+maintainability- (2) other law (including regulations adopted by covered entity its business associate) contains requirements applicable business associate that accomplish objectives paragraph (a)(2)(i) this section.
+maintainability- (3) health plan may not reject standard transaction on basis that it contains data elements not needed used by health plan (for example, coordination benefits information).
+maintainability- (3) national drug codes (ndc), as maintained distributed by hhs, collaboration with drug manufacturers, following:
+maintainability- (3) national council prescription drug programs (ncpdp) equivalent ncpdp batch standard batch implementation guide, version 1, release 0, february 1, 1996, as referenced â§162.1102, â§162.1202, â§162.1602, â§162.1802.
+maintainability- (4) health plan may not offer incentive health care provider conduct transaction covered by this part as transaction described under exception provided â§162.923(b).
+maintainability- (5) health plan that operates as health care clearinghouse, requires entity use health care clearinghouse receive, process, transmit standard transaction may not charge fees costs excess fees costs normal telecommunications that entity incurs when it directly transmits, receives, standard transaction to, from, health plan.
+maintainability- (5) asc x12n 834â€”benefit enrollment maintenance, version 4010, may 2000, washington publishing company, 004010x095 addenda benefit enrollment maintenance, version 4010, october 2002, washington publishing company, 004010x095a1, as referenced â§162.1502.
+maintainability- (7) asc x12n 278â€”health care services reviewâ€”request review response, version 4010, may 2000, washington publishing company, 004010x094 addenda health care services reviewâ€”request review response, version 4010, october 2002, washington publishing company, 004010x094a1, as referenced â§162.1302.
+maintainability- (8) asc x12nâ€“276 277 health care claim status request response, version 4010, may 2000, washington publishing company, 004010x093 addenda health care claim status request response, version 4010, october 2002, washington publishing company, 004010x093a1, as referenced â§162.1402.
+maintainability- (a) period october 16, 2002 through october 15, 2003: asc x12n 820â€”payroll deducted other group premium payment insurance products, version 4010, may 2000, washington publishing company, 04010x061.
+maintainability- (a) period october 16, 2002 through october 15, 2003: asc x12nâ€“276 277 health care claim status request response, version 4010, may 2000, washington publishing company, 004010x093.
+maintainability- (b) period on after october 16, 2003: asc x12n 834â€”benefit enrollment maintenance, version 4010, may 2000, washington publishing company, 004010x095 addenda benefit enrollment maintenance, version 4010, october 2002, washington publishing company, 004010x095a1.
+maintainability- (b) period on after october 16, 2003: asc x12nâ€“276 277 health care claim status request response, version 4010, may 2000, washington publishing company, 004010x093 addenda health care claim status request response, version 4010, october 2002, washington publishing company, 004010x093a1.
+maintainability- 80% end users are able integrate new database management systems with without changing productâ€™s software code.
+maintainability- 90% maintenance software developers are able integrate new functionality into with 2 working days.
+maintainability- new code documented using javadoc documentation system.
+maintainability- non-gui classes must at least 80% unit testing junit coverage tests that pass.
+maintainability- cpt: cpt code set accurately describes medical, surgical, diagnostic services is designed communicate uniform information about medical services procedures among physicians, coders, patients, accreditation organizations, payers administrative, financial, analytical purposes.
+maintainability- direct treatment relationship means treatment relationship between individual health care provider that is not indirect treatment relationship.
+maintainability- health plan receives standard transaction coordinates benefits with another health plan (or another payer), it must store coordination benefits data it needs forward standard transaction other health plan (or other payer).
+maintainability- loinc c o medical informatics.
+maintainability- orange book codes
+maintainability- promotional updates website should take day update.
+maintainability- asc x12n 270 271â€”health care eligibility benefit inquiry response, version 4010, may 2000, washington publishing company, 004010x092 addenda health care eligibility benefit inquiry response, version 4010, october 2002, washington publishing company, 004010x092a1.
+maintainability- asc x12n 270 271â€”health care eligibility benefit inquiry response, version 4010, may 2000, washington publishing company,004010x092.
+maintainability- asc x12n 835â€”health care claim payment advice, version 4010, may 2000, washington publishing company, 004010x091, addenda health care claim payment advice, version 4010, october 2002, washington publishing company, 004010x091a1.
+maintainability- asc x12n 835â€”health care claim payment advice, version 4010, may 2000, washington publishing company, 004010x091.
+maintainability- asc x12n 837â€”health care claim: institutional, volumes 1 2, version 4010, may 2000, washington publishing company, 004010x096 addenda health care claim: institutional, volumes 1 2, version 4010, october 2002, washington publishing company, 004010x096a1.
+maintainability- asc x12n 837â€”health care claim: professional, volumes 1 2, version 4010, may 2000, washington publishing company, 004010x098 addenda health care claim: professional, volumes 1 2, version 4010, october 2002, washington publishing company, 004010x098a1.
+maintainability- database provide structured query language (sql) capabilities database queries.
+maintainability- database provide following features:
+maintainability- implementation adhere java coding standards.
+maintainability- implementation run on windows platform eclipse 3.3 environment.
+maintainability- national council prescription drug programs telecommunication standard implementation guide, version 5, release 1 (version 5.1), september 1999, equivalent ncpdp batch standard batch implementation guide, version 1, release 1 (version 1.1), january 2000 supporting telecommunications standard implementation guide, version 5, release 1 (version 5.1) ncpdp data record detail data record.
+maintainability- national council prescription drug programs telecommunication standard implementation guide, version 5, release 1, september 1999, equivalent ncpdp batch standard batch implementation guide, version 1, release 0, february 1, 1996.
+maintainability- ncpdp telecommunication standard implementation guide, version 5, release 1 (version 5.1), september 1999, equivalent ncpdp batch standard batch implementation guide, version 1, release 1 (version 1.1), january 2000, supporting telecommunications standard implementation guide, version 5, release 1 (version 5.1) ncpdp data record detail data record.
+maintainability- php code will comply with pear standards.
+maintainability- must highly configurable use with various database management systems end users.
+maintainability- must run using internet explorer netscape navigator.
+maintainability- able continue operate with no interruption service due new resource additions.
+maintainability- internet browser independent.
+maintainability- continue operate during upgrade change new resource addition.
+maintainability- enable privacy by encryption ws-security integrity checking.
+maintainability- screens highly re-configurable, providing ability reposition rename field labels, remove â€œturn-offâ€ unused fields, maintain data, allow addition custom-defined fields.
+maintainability- has process linking local organism codes snomed loinc codes.
+maintainability- has capability support birads categories 0-6
+maintainability- has capability support breast imaging reporting data atlas (birads).
+maintainability- based upon proven state-of-the-art technologies.
+maintainability- implemented as java server page web application.
+maintainability- provide automated test script validate data after modifications upgrades
+maintainability- provide ability capture maintain, as discrete data, diagnosis problem code description associated with order any type (including prescriptions medications ordered administration).
+maintainability- provide ability capture patient vital signs, including blood pressure, heart rate, respiratory rate, height, weight, as discrete data.
+maintainability- provide ability capture, discrete field, allergy adverse reaction specific immunization.
+maintainability- store medication information discrete data fields.
+maintainability- support online data dictionary table relationships that describe maintain information on each data element including: data element name type, description data element, format each data element.
+maintainability- utilize naming conventions standards data elements, entities tables, programs, report names, etc.
+maintainability- utilize utilities database performance monitoring tuning that comply with industry standards, including but not limited tools table & file maintenance.
+maintainability- website should use flash provide animation on home page.
+maintainability- website will comply with w3c standards.
+maintainability- control open connections database, database access should done through object that uses singleton pattern.
+maintainability- use applicable medical data code sets described â§162.1002 as specified implementation specification adopted under this part that are valid at time health care is furnished.
+access control- he she is then presented with actual operational profile operations itrust medical records where use percentage is % total transactions each particular transaction logging type, broken-down by each user types (patient, lhcp, uhcp, admin, tester).
+audit- particular interest software tester is operational profile information which informs him her frequency use features system.
+functional""operationa-
+operational- 100% entities (mentioned above) available as october month-end will loaded into rfs prior budget start process.
+operational- database management such as oracle db2 mysql hsql will need integrated with product.
+operational- primary database will used store cached data active users.
+operational- aspects website accessed by web browser over internet.
+operational- cardmember detail information must obtained cardmember information database.
+operational- transaction details must obtained statement database
+operational- allow access emh solution over internet provide secure confidential storage information transmitted la dhs.
+operational- estimators able operated repair facility during dirty noisy conditions.
+operational- using centos redhat, then ensure when configuring mysql openemr, strict_mode must disabled.
+operational- movies encoded streamed via windows media player 9.0.
+operational- movies encoded 56k 256k streams.
+operational- queries must made external databases data refresh once week.
+operational- integrates with microsoft active directory authentication has capability notifying end user near domain account password expiration date as well as ability reset password through systemâ€™s user interface
+operational- application run on web application server.
+operational- brio portion wcs must able export files spreadsheet form (microsoft excel lotus 1-2-3 formats).
+operational- disputes application interface with cardmember information database.
+operational- disputes application interface with cardmember posting billing system.
+operational- disputes applications interface with merchant information database.
+operational- disputes must accessible by both internal external users.
+operational- maintenance will fall within established corporate maintenance windows.
+operational- merchant information database provides detailed information with regard merchant.
+operational- must able interface with any html browser.
+operational- must able interface with various database management systems.
+operational- must support mozilla firefox 1.0 above.
+operational- must work with most database management systems (dbms) on market whether dbms is colocated with on same machine is located on different machine on computer network.
+operational- available distribution as packaged cd.
+operational- available distribution via internet as binary zip file.
+operational- used office environments.
+operational- communicate successfully with database management on 100% transactions.
+operational- exchange messages between csr eam on real time basis without any direct interfaces between two systems.
+operational- interface csr datastream.
+operational- operate with every platform.
+operational- run on existing hardware environments.
+operational- will operate with oracle sql server db2 mysql hsql ms access.
+operational- will require collaboration with database management (dbms).
+operational- rfs should able easily interface with bdw environment order load data.
+operational- same hardware supporting current website will used support new system.
+operational- accommodate separate instances databases.
+operational- used within specifications defined by computers used by program administrators nursing staff members.
+operational- interface with student master server.
+operational- lock database records based on organization parameters (e.g., at row level, field level, at application level).
+operational- provide data import functionality receive standard format data external parties.
+operational- provide ability on-line access by any site connected organization wan.
+operational- utilize currently owned computer equipment.
+operational- wcs accessed by users through internet on ibm computer running windows 2000 above operating system.
+operational- wcs ability connect other designated wcs databases currently not included system.
+operational- this can done mysql configuration (mydotcnf) file.
+operational- this will allow disputes application request letters as part dispute initiation dispute follow up process.
+operational- velkat staff will available phone support between 7am-7pm m-f provide technical support izogn administrators.
+operational- website must fully operational with msn tv2.
+operational- you can check setting existing mysql instance by executingâ show variables;â mysql command line client checking value sql_mode.
+reliability- possibly possibly dependent databases filesystems remain operational as result input malicious data.
+access control- patient personal health representative may enter edit their own demographic information including their security question answer according data format 6.1.
+access control- technical security measures guard against unauthorized access electronic protected health information that is being transmitted over electronic communications network.
+access control- requires password re-entry before user is allowed perform functions predefined as â€œhigh securityâ€.
+audit- procedures regularly review records information activity, such as audit logs, access reports, security incident tracking reports.
+audit- security measures ensure that electronically transmitted electronic protected health information is not improperly modified without detection until disposed of.
+database design- hcp must enter mid patient then enter edit demographic information with exception patient's security question password according data format 6.1.
+database design- answer security question is correct, allow user change their password.
+functional- (2) deciding which security measures use, covered entity must take into account following factors:
+functional- (c) report covered entity any security incident which it becomes aware;
+functional- (iii) costs security measures.
+functional- (iv) report group health plan any security incident which it becomes aware.
+functional- patient has never stored security question answer, user is asked random password assigned on creation account.
+functional- security question answer has been set (it is not null) , present security question obtain answer .
+functional- hcp does not ability enter edit view patient's security question password.
+functional- ability link user logon id his her employee number contractor social security number, as well as location group locations which user is assigned.
+legal- exchange, user agrees pay any applicable fees; user agrees use data only purposes that support userâ€™s study, research project referenced this agreement, which has been determined by cms provide assistance cms monitoring, managing improving medicare medicaid programs services provided beneficiaries; user agrees ensure integrity, security, confidentiality data by complying with terms this agreement applicable law, including privacy act health insurance portability accountability act.
+legal- order secure data that reside cms privacy act records; order ensure integrity, security, confidentiality information maintained by cms; permit appropriate disclosure use such data as permitted by law, cms (requestor) agreement comply with following specific paragraphs.
+other nonfunctional- able support time synchronization using ntp sntp, use this synchronized time security records time.
+other nonfunctional- they should assigned responsible parties loss theft should promptly reported action protect further security holes should taken.
+privacy- furthermore, cms determines that risk harm requires notification affected individual persons security breach possibly possibly other remedies, user agrees carry out these remedies without cost cms.
+privacy- exchange, user agrees pay any applicable fees; user agrees use data only purposes that support userâ€™s study, research project referenced this agreement, which has been determined by cms provide assistance cms monitoring, managing improving medicare medicaid programs services provided beneficiaries; user agrees ensure integrity, security, confidentiality data by complying with terms this agreement applicable law, including privacy act health insurance portability accountability act.
+recoverability- able generate backup copy application data, security credentials, log audit files.
+recoverability- this state include restoration application data, security credentials, log audit files their previous state.
+security- - disable accounts after 90 days inactivity
+security- - passwords can changed by associated user only once 2-day period
+security- - users are re-authenticated before changing passwords
+security- measures are place protect information being accidentally overwritten.
+security- (2) use appropriate safeguards prevent use disclosure information other than as provided by data use agreement;
+security- (3) protect against any reasonably anticipated uses disclosures such information that are not permitted required under subpart e this part.
+security- (9) description process place ensuring that any certified ehr technology used as basis payment incentive medicaid providers is compatible with state federal administrative management systems, including mmis other automated claims processing information retrieval methodology verifying such information.
+security- (a) administrative, physical, technical safeguards that reasonably appropriately protect confidentiality, integrity, availability electronic protected health information that it creates, receives, maintains, transmits on behalf covered entity as required by this subpart;
+security- (b) use appropriate safeguards prevent use disclosure information other than as provided by its contract;
+security- (i) except with respect disclosures under â§164.510, verify identity person requesting protected health information authority any such person access protected health information under this subpart, identity any such authority such person is not known covered entity;
+security- (ii) ensure that adequate separation required by â§164.504(f)(2)(iii) is supported by reasonable appropriate security measures;
+security- 100% logons by either company employees external users with company-approved user ids.
+security- security risk assessment is requirement compliance with hipaa meaningful use.
+security- software tester has login password.
+security- consider adding specific sqlconfdotphp override settings when using patient portal (especially onsite portal), which can used use separate mysql user (and possibly database).
+security- do not allow direct web access following directories
+security- ensure root password is set something.
+security- not using portal want allow users access over internet, then consider using client-sided certificates only allow users access site
+security- on server, consider only opening port 443 (https).
+security- only allow https (ie turn off http)
+security- third party portal could also set up ssh tunnel method, so local openemr instance is not open web (and possibly not even require ip address).
+security- third party portal could set up certificate identify their server as option further secure.
+security- administration interfaces require strong authentication authorization.
+security- after installation is finished, then secure files (this should done as root user):
+security- authorized users once authenticated must able logon disputes
+security- credit card information will encrypted database.
+security- user accounts are identified.
+security- updates data files database must initiated disputes system.
+security- example reflexive testing is when confirmatory test is automatically ordered after screening test is positive.
+security- remember that openemr's username passwords are case sensitive.
+security- attempts access resources using parent paths are blocked.
+security- conduct accurate thorough assessment potential risks vulnerabilities confidentiality, integrity, availability electronic protected health information held by covered entity.
+security- configuration credentials authentication tokens are not held plain text configuration files.
+security- configuration stores are secured unauthorized access tampering.
+security- cryptographic algorithm key size systemâ€™s data encryption requirements is aes 256 bit stronger.
+security- customer will no longer able access website.
+security- data is validated type, length, format, range.
+security- data recipient use appropriate safeguards protect iihi misuse inappropriate disclosure prevent any use disclosure iihi other than as provided this dua as otherwise required by law regulation.
+security- database file encryption protection sensitive data fields while data is at rest (i.e., stored data) is provided.
+security- database will mark account as inactive user will not able log into website
+security- each team owner will need use username password order authenticated reach team ownerâ€™s page
+security- electronic sessions must terminate after ten minutes inactivity.
+security- encryption keys are secured.
+security- ensure that authentication is reset after period inactivity that exceeds ten minutes.
+security- e-prescribing forâ cchit certification, ehr systems ability support two-factor authentication.
+security- systems that provide access phi through web browser interface (i.e. html over http) include capability encrypt data communicated over network via ssl (html over https).
+security- identify security standard (ssl fips encryption).
+security- user account is revoked it can only re-instantiated by administrator.
+security- this is your first time logging openemr it is recommended that you change your password something more secure.
+security- mechanism encrypt decrypt electronic protected health information.
+security- electronic mechanisms corroborate that electronic protected health information has not been altered destroyed unauthorized manner.
+security- electronic procedures that terminate electronic session after predetermined time inactivity.
+security- policies procedures that specify proper functions performed, manner which those functions are performed, physical attributes surroundings specific workstation class workstation that can access electronic protected health information.
+security- policies procedures address security incidents.
+security- policies procedures prevent, detect, contain, correct security violations.
+security- policies procedures protect electronic protected health information improper alteration destruction.
+security- procedures regularly review records information activity, such as audit logs, access reports, security incident tracking reports.
+security- procedures verify that person entity seeking access electronic protected health information is one claimed.
+security- technical security measures guard against unauthorized access electronic protected health information that is being transmitted over electronic communications network.
+security- event that does not support pre-login capabilities, display banner immediately following authorization.
+security- key management procedure secure manage encryption keys is defined.
+security- login openemr using your assigned username password.
+security- measures are place prevent, detect log unauthorized attempts access sensitive confidential data.
+security- measures are place prevent, detect log unauthorized attempts access system.
+security- note that openemr login is case-sensitive.
+security- on this page is displayed recommendations warnings regarding directories apache should not allow outside world see, as these directories contain protected health information.
+security- only authorized users access studentsâ€™ personal information.
+security- only authorized users access portion that interfaces with campusconnect.
+security- only administrator able reset revoked user logon account
+security- only users that exist uas with rfs assigned their role(s) access rfs use it.
+security- periodic security updates.
+security- physical security protects providers, patients, clinic assets, physical manifestation business, financial, health information.
+security- procedures creating, changing, safeguarding passwords.
+security- procedures guarding against, detecting, reporting malicious software.
+security- protect electronic health information created maintained by certified ehr technology through implementation appropriate technical capabilities.
+security- protect electronic health information created maintained by certified ehr technology through implementation appropriate technical capabilities.
+security- remove mid being displayed on pages urls.
+security- secrets are stored securely using one-way hash.
+security- sensitive data secrets are not incorporated code.
+security- sensitive data is not logged clear text by system.
+security- sensitive data is not transmitted using insecure protocols, such as ftp, telnet, tftp etc., unless tunneled through authenticated encrypted connection (e.g. vpn).
+security- session identifiers are not passed query strings.
+security- ssl is used protect authentication cookies.
+security- allows addition user-defined messages logon screen
+security- allows viewing list users logged on real-time
+security- authenticates standalone devices before access is allowed protected resources.
+security- code does not rely on internal generated error handling.
+security- does not rely on client-side validation.
+security- encrypts sensitive data transmitted between clients servers using secure socket layer (ssl) certificates, transport layer security (tls), by other means
+security- exception handling minimizes information disclosure case exception.
+security- insures that minimum error information is returned event authentication failure.
+security- must support password complexity that meets following requirements:
+security- provides automatic timeout session is idle pre-specified configurable duration.
+security- provides integrated security managed central accounts database
+security- provides following password change rules user accounts:
+security- provides option multi-factor authentication users with higher security access.
+security- let existing customers log into website with their email address password under 5 seconds.
+security- uses least-privileged accounts.
+security- administrator has authenticated himself herself itrust medical records (uc3).
+security- county standard users is 90 days.
+security- disputes application manipulate view business data.
+security- disputes generate user report that details any new users that been added any changes existing userâ€™s access level.
+security- hcp has authenticated himself herself itrust medical records (uc2),(uc3).
+security- hcp has authenticated himself herself itrust medical records (uc3).
+security- inactivity timeout configurable.
+security- itrust user (lchp) has been authenticated itrust medical records (uc3).
+security- itrust user (patient) has authenticated himself herself itrust medical records (uc3).
+security- itrust user (patient) has been authenticated itrust medical records (uc3).
+security- itrust user has been authenticated itrust medical records (uc3).
+security- leads washing functionality will verify users authentication rights make parameter updates.
+security- patient has authenticated himself herself itrust medical records system(uc3).
+security- possibly possibly adjacent hardware software systemsâ€™ data remain 100% uncorrupted each time malicious data is input into product.
+security- ensure that databaseâ€™s data corresponds data entered by user.
+security- free computer viruses.
+security- prevent its data incorrect data being introduced.
+security- prevent input malicious data.
+security- proposer provide adequate firewall protection order secure personal data other confidential information users ehr unauthorized access by third parties.
+security- proposer provide facility required host computing network environment, including appropriate physical security, required third-party software, 24 by 7 staff support monitoring environmental conditions (e.g. hvac, port, fire detection, suppression, moisture, humidity temperature.
+security- report will reviewed auditing purposes.
+security- safeguards provide level scope security that is not less than level scope security requirements established by office management budget (omb) omb circular no a-130, appendix iii--security federal automated information systems (http://www.whitehouse.gov/omb/circulars/a130/a130.html) as well as federal information processing standard 200 entitled â€œminimum security requirements federal information information systemsâ€ (http://csrc.nist.gov/publications/fips/fips200/fips-200-final-march.pdf); and, special publication 800-53 â€œrecommended security controls federal information systemsâ€ (http://csrc.nist.gov/ publications/nistpubs/800-53-rev2/sp800-53-rev2-final.
+security- streaming server will anti-virus software prevent infection malicious viruses.
+security- design assumes that user input is malicious.
+security- authenticate user before any access protected resources (e.g. phi) is allowed, including when not connected network e.g. mobile devices.
+security- automatically notify users force them change passwords on pre-defined frequency.
+security- enforce limit (configurable) consecutive invalid access attempts by user.
+security- enforce most restrictive set rights privileges accesses needed by users groups (e.g. administration, clerical, nurse, doctor, etc.), processes acting on behalf users, performance specified tasks.
+security- ability security module maintained by in-house administrator
+security- ability assign application access rights across entire suite applications at single point entry.
+security- ability support biometrics biometrics plus passwords (e.g., fingerprint scan fingerprint scan plus password).
+security- ability support web based client access other internet based client access technologies, with appropriate security access controls
+security- include documentation that itemizes services (e.g. php, web services) network protocols/ports (e.g. hl-7, http, ftp) that are necessary proper operation servicing system, including justification need that service protocol.
+security- maintain consistent security.
+security- protect against further, possibly malicious, user authentication attempts using appropriate mechanism (e.g. locks account node until released by administrator, locks account node configurable time period, delays next login prompt according configurable delay algorithm).
+security- provide ability use single user sign-on modules with security configured each module.
+security- provide lock-out capability after pre-defined number unsuccessful user sign-on attempts.
+security- provide only limited feedback information user during authentication.
+security- use organizationâ€™s standard virus protection software help monitor threats itself.
+security- upon detection inactivity interactive session prevent further viewing access by that session by terminating session, by initiating session lock that remains effect until user reestablishes access using appropriate identification authentication procedures.
+security- time passwords changed is predefined as per userâ€™s role access level.
+security- user agrees that, within user organization organizations its agents, access data covered by this agreement limited minimum amount data minimum number individuals necessary achieve purpose stated this section (i.e., individualâ€™s access data will on need-to-know basis).
+security- validation approach is constrain, reject, then sanitize input.
+security- wcs not allow automatic logins by any user.
+security- website prevent its data being corrupted when incorrect data is entered in.
+security- website protect itself intentional abuse notify administrator at occurrences.
+security- begin, log with your designated username password.
+security- traditional security matters involve locks, points entry, lighting cameras, fire precautions, power outage procedures, water protection, disaster recovery.
+security- users will not direct access data files databases.
+security- vendor may self-certify compliance with this standard through procedures that make use commercial malware scanning software.
+security- when passwords are used, allow authenticated user change their password consistent with password strength rules (sc 03.02).
+security- when passwords are used, prevent reuse passwords previously used within specific (configurable) timeframe (i.e., within last x days, etc. - e.g. \
+security- when passwords are used, use either standards-based encryption, e.g., 3des, aes, standards-based hashing, e.g., sha1 store transport passwords.
+security- when passwords are used, user accounts that been reset by administrator require user change password at next successful logon.
+look feel- interface usability survey 90% beta testers must report that interface is adequately simple.
+usability- (iii) covered entity informs individual that it is terminating its agreement restriction, except that such termination is only effective with respect protected health information created received after it has so informed individual.
+usability- 100% merchant services representatives able successfully perform follow up action on dispute case on first encounter after completing training course.
+usability- 100% cardmember merchant services representatives use disputes application regularly after 2-day training course.
+usability- 80% collision estimators agree their productivity has increase within 1 month using product.
+usability- 80% users surveyed report that accurately confirms their actions.
+usability- 90% new users are able log into within 10 minutes.
+usability- 90% new users able start display events activities within 90 minutes using product.
+usability- 90% users will able successfully reserve conference room within 5 minutes use.
+usability- 95% adjusters collision estimators find easy use.
+usability- user able use without instruction after short amount time.
+usability- after informally navigating less than 15 minutes users able successfully setup meetings reserve conference rooms.
+usability- interfaces reports will undergo usability tests by ccr users.
+usability- users able use after one day training.
+usability- callers supervisors learn how use within 10 minutes.
+usability- every registered user will access productâ€™s support site via internet.
+usability- integration new maps with possible with little no support support staff.
+usability- intelligent spell checking text fields
+usability- that 'add new issue' dialog also uses openemr date selection tool described earlier.
+usability- that source pay date previous window been copied over; this saves time common case where single check insurance company pays multiple claims.
+usability- one training session will held 100% ccr users before deployment (based on ccr user being available)
+usability- on-line, interactive help with support hyperlink technology industry standard formats (e.g.,â html file formats)
+usability- staff members able complete set tasks timely manner.
+usability- application ask user confirm dropping player trading player before performing action.
+usability- enterer editor is presented with success failure message form is updated so that enterer editor may correct form add more information.
+usability- form validation show errors fields form at same time.
+usability- list dispute cases that are displayed after search is performed must color coded easy identification dispute cases based upon dispute case status.
+usability- number mistakes noted by students decreased by 50% first year.
+usability- easy administrators dbas use after two weeks usage.
+usability- easy learn by adjusters collision estimators.
+usability- installed by untrained realtor without recourse separately-printed instructions.
+usability- intuitive self-explanatory.
+usability- give users feedback when necessary.
+usability- intuitive user interface.
+usability- make users want use it.
+usability- use standard navigation menu familiar most web users.
+usability- response fast enough avoid interrupting userâ€™s flow thought.
+usability- has capability voice recognition.
+usability- has capability alert user lookalike sound alike drugs.
+usability- has capability detect duplicate orders issuing visual auditory warnings.
+usability- allow option auto-fill capability per transaction field entry throughout modules
+usability- allow user-friendly end-user report creation without requiring technical staff expertise create publish reports within modules
+usability- easy use by program administrators nursing staff members.
+usability- intuitive self explanatory.
+usability- display patient annotations manner which distinguishes them other content system.
+usability- customizable online documentation training materials such as context-specific help, search capability, organization-specific business process documentation process maps.
+usability- help user avoid making mistakes while scheduling classes clinicals nursing students.
+usability- include documentation that explains error performance messages users administrators, with actions required.
+usability- provide ability document encounters by one more following means: direct keyboard entry text; structured data entry utilizing templates, forms, pick lists macro substitution; dictation with subsequent transcription voice text, either manually via voice recognition system.
+usability- use symbols words that are naturally understandable by user community.
+usability- user easily locate instructions while using product.
+usability- users should able easily use successfully complete their budgets within stipulated time completion.
+usability- website will use standard internet conventions when interacting with user.
+usability- user help can found within 90% system.
