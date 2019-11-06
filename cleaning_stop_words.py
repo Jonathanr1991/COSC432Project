@@ -1,4 +1,4 @@
-stop_words = ["the", "system", "shall", "product", "an", "a", "from", "to", "of", "in", "and", "for","or", "if", "be", "all","\"the", "notice", "implements", "have", "implement" ]
+stop_words = ["the", "system", "shall", "product", "an", "a", "from", "to", "of", "in", "and", "for","or", "if", "be", "all","\"the", "notice", "implements", "have", "implement" , "has", "this"]
 
 filepath1="training.txt"
 filepath2="testing.txt"
