@@ -14,7 +14,6 @@ capacity performance- server will support maximum 1 000 simultaneous users
 capacity performance- able handle average transaction load with average cpu utilization no more than 35%-40% cpu capacity
 capacity performance- cater 10 simultaneous users 9am 5pm
 capacity performance- refresh display every 60 seconds
-capacity performance- there is no limitation number accepted formats
 maintainability- it enters into memorandum understanding with business associate that contains terms that accomplish objectives paragraph
 maintainability- healthcare common procedure coding (hcpcs), as maintained distributed by hhs, other substances, equipment, supplies, other items used health care services, with exception drugs biologics
 maintainability- receive standard transaction on behalf covered entity translate it into nonstandard transaction (for example, nonstandard format possibly possibly nonstandard data content) transmission covered entity
@@ -26,7 +25,6 @@ maintainability- national drug code directory
 maintainability- appointments are listed format mm/dd/yyyy - appointmenttype
 maintainability- asc x12n 8payroll deducted other group premium payment insurance products, version 4010, may 2000, washington publishing company, 004010x061, addenda payroll deducted other group premium payment insurance products, version 4010, october 2002, washington publishing company, 004010x061a1.
 maintainability- asc x12n 837â€”health care claim: dental, version 4010, may 2000, washington publishing company, 004010x097
-maintainability- asc x12n 837â€”health care claims: professional, volumes 1 2, version 4010, may 2000, washington publishing company, 004010x098 addenda health care claims: professional, volumes 1 2, version 4010, october 2002, washington publishing company
 maintainability- implementation must use strategy pattern epidemic detection cause-of-death trends singleton pattern database connections
 maintainability- national council prescription drug programs (ncpdp) telecommunication standards implementaiton guide, version 5, release 1, september 1999, equivalent ncpdp batch standards batch implementation guide, version 1, release 1, (version 1.1), january 2000, supporting telecomunication version 5.1 ncpdp data record detail data record
 maintainability- ncpdp telecommunication standard implementation guide, version 5 release 1, september 1999, equivalent ncpdp batch standard batch implementation guide, version 1 release 0, february 1, 1996
@@ -42,7 +40,6 @@ operational- restricts access financial transactions other sensitive data by aut
 operational- dbms may located on same machine as on separate machine residing on same computer network
 operational- disputes application interface with statement database
 operational- lead washing process will operate within established physical web service structure
-operational- is expected run on windows ce palm operating systems
 operational- must support internet explorer 5.5 above
 operational- able installed specified environment within 1 working day
 operational- supported using corporate support center
@@ -57,7 +54,6 @@ security- customer service, including provision data analyses policy holders, pl
 security- patient authenticated him herself itrust medical records
 security- consider firewall that only allows port 443 (https) traffic server
 security- enforce strong unique passwords, which can set administration globals security
-security- you are using xampp, note that software is extremely unsecure after installation you need secure i
 security- passwords should held standard required change at intervals.
 security- ability administrator delegate authority, by user group, restore access locked out user
 security- additions new users modifications userâ€™s access recorded on user report 
@@ -67,7 +63,6 @@ security- apply appropriate sanctions against workforce members who fail comply 
 security- conduct review security risk analysis accordance with requirements under 45 cfr 164.308(a)(1) security updates as necessary correct identified security deficiencies as part its risk management process.
 security- cookies with sensitive data (e.g. authentication cookies) are encrypted.
 usability- registered users find solution their problem within 5 minutes using support site
-usability- users will satisfied with product.
 usability- users should able successfully use generate report on their first use.
 usability- new user able navigate through league team pages within 30 seconds reaching start-up page.
 usability- ccr users receive training before wcs is deployed.
