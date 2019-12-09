@@ -1,182 +1,81 @@
-capacity performance- aside server failure software achieve 99.99% up time.
-capacity performance- on 56k connection response time operations must no more than 6 seconds 90% time.
-capacity performance- audit report returned within 10 seconds.
-capacity performance- disputes application support 350 concurrent users without any degradation performance application.
-capacity performance- preferred repair facility ratings saved within 5 seconds.
-capacity performance- able support 1000 simultaneous users.
+capacity performance- aside server failure software achieve 99.99% up time
+capacity performance- on 56k connection response time operations must no more than 6 seconds 90% time
+capacity performance- audit report returned within 10 seconds
+capacity performance- disputes application support 350 concurrent users without any degradation performance application
+capacity performance- preferred repair facility ratings saved within 5 seconds
+capacity performance- able support 1000 simultaneous users
 capacity performance- able support multiple remote users
-capacity performance- generate cma report acceptable time.
-capacity performance- provide multi-threading load balancing.
-capacity performance- use symbols words that are naturally understandable by realtor community.
-capacity performance- response time interface should not exceed 2 seconds 90% time.
-capacity performance- search recycled parts take no longer than 15 seconds.
-capacity performance- server will support maximum 1 000 simultaneous users.
-capacity performance- able handle average transaction load with average cpu utilization no more than 35%-40% cpu capacity.
-capacity performance- cater 10 simultaneous users 9am 5pm.
-capacity performance- refresh display every 60 seconds.
-capacity performance- there is no limitation number accepted formats.
-capacity performance- total lead cycle time must completed 5 minutes 90% lead volume between business hours 8am cst 8pm cst; then 3 minutes 99% lead volume during off business hours.
-functional""capacity performanc-
-usability- include documentation that explains error performance messages users administrators, with actions required.
-maintainability- (1) it enters into memorandum understanding with business associate that contains terms that accomplish objectives paragraph (a)(2)(i) section;
-maintainability- (2) international classification diseases, 9th edition, clinical modification, volume 3 procedures (including official icdâ€“9â€“cm guidelines coding reporting), as maintained distributed by hhs, following procedures other actions taken diseases, injuries, impairments on hospital inpatients reported by hospitals:
-maintainability- (2) batch standard batch implementation guide, version 1, release 1 (version 1.1), january 2000, supporting telecommunication standard implementation guide, version 5, release 1 (version 5.1) ncpdp data record detail data record, national council prescription drug programs, as referenced â§162.1102, â§162.1202, â§162.1302, â§162.1802.
-maintainability- (3) healthcare common procedure coding (hcpcs), as maintained distributed by hhs, other substances, equipment, supplies, other items used health care services, with exception drugs biologics.
-maintainability- (4) asc x12n 835â€”health care claim payment advice, version 4010, may 2000, washington publishing company, 004010x091, addenda health care claim payment advice, version 4010, october 2002, washington publishing company, 004010x091a1 as referenced â§162.1602.
-maintainability- (6) asc x12n 820â€”payroll deducted other group premium payment insurance products, version 4010, may 2000, washington publishing company, 004010x061, addenda payroll deducted other group premium payment insurance products, version 4010, october 2002, washington publishing company, 004010x061a1, as referenced â§162.1702.
-maintainability- (a) period october 16, 2002 through october 15, 2003: asc x12n 834â€”benefit enrollment maintenance, version 4010, may 2000, washington publishing company, 004010x095.
-maintainability- (a) receive standard transaction on behalf covered entity translate it into nonstandard transaction (for example, nonstandard format possibly possibly nonstandard data content) transmission covered entity.
-maintainability- 100% customers will able receive automatic software updates transmitted installed product.
-maintainability- changes updates additions wcs updated wcs developer wcs user guides.
-maintainability- assign unique name possibly possibly number identifying tracking user identity.
-maintainability- each emerging target market it take no more than 5 days configure that marketâ€™s language.
-maintainability- national drug code directory.
-maintainability- appointments are listed format 'mm/dd/yyyy - appointmenttype'.
-maintainability- asc x12n 820â€”payroll deducted other group premium payment insurance products, version 4010, may 2000, washington publishing company, 004010x061, addenda payroll deducted other group premium payment insurance products, version 4010, october 2002, washington publishing company, 004010x061a1.
-maintainability- asc x12n 837â€”health care claim: dental, version 4010, may 2000, washington publishing company, 004010x097.
-maintainability- asc x12n 837â€”health care claims: professional, volumes 1 2, version 4010, may 2000, washington publishing company, 004010x098 addenda health care claims: professional, volumes 1 2, version 4010, october 2002, washington publishing company, 004010x098a1.
-maintainability- implementation must use strategy pattern epidemic detection cause-of-death trends singleton pattern database connections.
-maintainability- national council prescription drug programs (ncpdp) telecommunication standards implementaiton guide, version 5, release 1, september 1999, equivalent ncpdp batch standards batch implementation guide, version 1, release 1, (version 1.1), january 2000, supporting telecomunication version 5.1 ncpdp data record detail data record.
-maintainability- ncpdp telecommunication standard implementation guide, version 5 release 1, september 1999, equivalent ncpdp batch standard batch implementation guide, version 1 release 0, february 1, 1996.
+capacity performance- generate cma report acceptable time
+capacity performance- provide multi-threading load balancing
+capacity performance- use symbols words that are naturally understandable by realtor community
+capacity performance- response time interface should not exceed 2 seconds 90% time
+capacity performance- search recycled parts take no longer than 15 seconds
+capacity performance- server will support maximum 1 000 simultaneous users
+capacity performance- able handle average transaction load with average cpu utilization no more than 35%-40% cpu capacity
+capacity performance- cater 10 simultaneous users 9am 5pm
+capacity performance- refresh display every 60 seconds
+capacity performance- there is no limitation number accepted formats
+maintainability- it enters into memorandum understanding with business associate that contains terms that accomplish objectives paragraph
+maintainability- healthcare common procedure coding (hcpcs), as maintained distributed by hhs, other substances, equipment, supplies, other items used health care services, with exception drugs biologics
+maintainability- receive standard transaction on behalf covered entity translate it into nonstandard transaction (for example, nonstandard format possibly possibly nonstandard data content) transmission covered entity
+maintainability- customers will able receive automatic software updates transmitted installed product
+maintainability- changes updates additions wcs updated wcs developer wcs user guides
+maintainability- assign unique name possibly possibly number identifying tracking user identity
+maintainability- each emerging target market it take no more than 5 days configure that language
+maintainability- national drug code directory
+maintainability- appointments are listed format mm/dd/yyyy - appointmenttype
+maintainability- asc x12n 8payroll deducted other group premium payment insurance products, version 4010, may 2000, washington publishing company, 004010x061, addenda payroll deducted other group premium payment insurance products, version 4010, october 2002, washington publishing company, 004010x061a1.
+maintainability- asc x12n 837â€”health care claim: dental, version 4010, may 2000, washington publishing company, 004010x097
+maintainability- asc x12n 837â€”health care claims: professional, volumes 1 2, version 4010, may 2000, washington publishing company, 004010x098 addenda health care claims: professional, volumes 1 2, version 4010, october 2002, washington publishing company
+maintainability- implementation must use strategy pattern epidemic detection cause-of-death trends singleton pattern database connections
+maintainability- national council prescription drug programs (ncpdp) telecommunication standards implementaiton guide, version 5, release 1, september 1999, equivalent ncpdp batch standards batch implementation guide, version 1, release 1, (version 1.1), january 2000, supporting telecomunication version 5.1 ncpdp data record detail data record
+maintainability- ncpdp telecommunication standard implementation guide, version 5 release 1, september 1999, equivalent ncpdp batch standard batch implementation guide, version 1 release 0, february 1, 1996
 maintainability- must developed with j2se j2ee programming language libraries
 maintainability- adhere corporate architecture guidelines
-maintainability- comply with city chicago application development guide framework.
-maintainability- provide dynamic change support transparent resource addition.
-maintainability- capability dicom compliant images.
-maintainability- allow database information exchange using current commonly accepted industry formats (e.g. hl7, xml).
-maintainability- ability format export recorded time stamps using utc based on iso 8601.
-maintainability- provide ability capture patient history standard coded form.
-maintainability- provide ability perform real-time updates.
-maintainability- use open relational database management (rdbms) store organization data.
-maintainability- washing process must use non binding neutral data format such as xml when receiving processing lead data.
-maintainability- includes browser-based, server-side architectures, configurable, range industry-standard database, operating system, programming platforms
-maintainability- volumes 1 2, version 4010, may 2000, washington publishing company, 004010x096.
-functional- review documentation periodically, update as needed, response environmental operational changes affecting security electronic protected health information.
-operational- 98% user workstations meet minimum hardware requirements prior implementation.
-operational- adjustment requests must sent cardmember posting billing system.
-operational- merchant detail information obtained merchant information database.
-operational- first install configure mysql, apache (or another php-capable webserver), php5.
-operational- minimum hard disk space: 400mb.
-operational- installations upgrades handled by middleware technology team within established launch time frames.
-operational- restricts access financial transactions other sensitive data by authorized users outside county intranet read only mode.
-operational- dbms may located on same machine as on separate machine residing on same computer network.
-operational- disputes application interface with statement database.
-operational- lead washing process will operate within established physical web service structure.
-operational- is expected run on windows ce palm operating systems.
-operational- must support internet explorer 5.5 above.
-operational- able installed specified environment within 1 working day.
-operational- supported using corporate support center.
-operational- enable access any type development environment platform.
-operational- interface with choiceparts once per day at approximately 1:00 am.
-operational- will function alongside server software on any operating where java runtime can installed.
-operational- proposer provide manage required infrastructure network equipment within data center, such as servers, routers, switches, load balancers consoles.
-operational- able operate within business office environment typical nursing department at depaul university.
-operational- interface with faculty central server.
-operational- provide data export functionality that creates common export file format (e.g. comma delimited, tab delimited, space delimited, quotation delimited, etc.).
-operational- provide ability maintain multiple operating environments development, test, training production.
-operational- wcs run windows environment.
-operational- will allow disputes application request adjustments cardmember merchantâ€™s accounts.
-operational- we must able interface with following browsers: ie 5x, ie 6x, netscape 6, 7, 8, firefox 1.
-recoverability- restore functionality result fully operational secure state.
-access control- security measures ensure that electronically transmitted electronic protected health information is not improperly modified without detection until disposed of.
-audit- he is not expected create audit logs entries security events that it does not mediate.
-audit- able detect security-relevant events that it mediates generate audit records them.
-functional- (1) covered entities may use any security measures that allow covered entity reasonably appropriately standards implementation specifications as specified subpart.
-functional- (iii) ensure that any agent, including subcontractor, whom it provides information agrees reasonable appropriate security measures protect information;
-functional- identify security official who is responsible development implementation policies procedures required by subpart entity.
-functional- review documentation periodically, update as needed, response environmental operational changes affecting security electronic protected health information.
-legal- furthermore, cms determines that risk harm requires notification affected individual persons security breach possibly possibly other remedies, user agrees carry out these remedies without cost cms.
-legal- user agrees report any breach personally identifiable information (pii) cms data file(s), loss these data disclosure any unauthorized persons cms action desk by telephone at (410) 786-2580 by e-mail notification at cms_it_service_desk@cms.hhs.gov within one hour cooperate fully federal security incident process.
-privacy- covered entity may disclose protected health information authorized federal officials conduct lawful intelligence, counter-intelligence, other national security activities authorized by national security act (50 u.s.c. 401, et seq.) implementing authority (e.g., executive order 12333).
-recoverability- establish (and as needed) procedures enable continuation critical business processes protection security electronic protected health information while operating emergency mode.
-security- session that been inactive more than ten minutes is terminated
-security- - does not accept file names file paths calling functions.
-security- (2) protect against any reasonably anticipated threats hazards security integrity such information.
-security- (8) description process place ensuring improvements health outcomes, clinical quality, efficiency resulting adoption certified ehr technology by recipients medicaid incentive payments methodology verifying such information.
-security- (b) right receive confidential communications protected health information as provided by â§164.522(b), as applicable;
-security- (ii) customer service, including provision data analyses policy holders, plan sponsors, other customers, provided that protected health information is not disclosed such policy holder, plan sponsor, customer.
-security- patient authenticated him herself itrust medical records (uc2).
-security- consider firewall that only allows port 443 (https) traffic server.
-security- enforce strong unique passwords, which can set administration->globals->security
-security- you are using xampp, note that software is extremely unsecure after installation you need secure it (see theâ xampp security instructionsâ secure your xampp installation.)
+operational- 98% user workstations meet minimum hardware requirements prior implementation
+operational- adjustment requests must sent cardmember posting billing system
+operational- merchant detail information obtained merchant information database
+operational- first install configure mysql, apache (or another php-capable webserver), php5
+operational- minimum hard disk space: 400mb
+operational- installations upgrades handled by middleware technology team within established launch time frames
+operational- restricts access financial transactions other sensitive data by authorized users outside county intranet read only mode
+operational- dbms may located on same machine as on separate machine residing on same computer network
+operational- disputes application interface with statement database
+operational- lead washing process will operate within established physical web service structure
+operational- is expected run on windows ce palm operating systems
+operational- must support internet explorer 5.5 above
+operational- able installed specified environment within 1 working day
+operational- supported using corporate support center
+operational- enable access any type development environment platform
+operational- interface with choiceparts once per day at approximately 1:00 am
+operational- will function alongside server software on any operating where java runtime can installed
+security- - does not accept file names file paths calling functions
+security-  protect against any reasonably anticipated threats hazards security integrity such information.
+security-  description process place ensuring improvements health outcomes, clinical quality, efficiency resulting adoption certified ehr technology by recipients medicaid incentive payments methodology verifying such information.
+security- right receive confidential communications protected health information as provided by â§164.522(b), as applicable;
+security- customer service, including provision data analyses policy holders, plan sponsors, other customers, provided that protected health information is not disclosed such policy holder, plan sponsor, customer.
+security- patient authenticated him herself itrust medical records
+security- consider firewall that only allows port 443 (https) traffic server
+security- enforce strong unique passwords, which can set administration globals security
+security- you are using xampp, note that software is extremely unsecure after installation you need secure i
 security- passwords should held standard required change at intervals.
 security- ability administrator delegate authority, by user group, restore access locked out user
-security- additions new users modifications userâ€™s access recorded on user report.
-security- input parameters are validated (including form fields, query strings, cookies, http headers).
-security- authenticated session ends when user logs out closes itrust application.
+security- additions new users modifications userâ€™s access recorded on user report 
+security- input parameters are validated (including form fields, query strings, cookies, http headers) 
+security- authenticated session ends when user logs out closes itrust application 
 security- apply appropriate sanctions against workforce members who fail comply with security policies procedures covered entity.
 security- conduct review security risk analysis accordance with requirements under 45 cfr 164.308(a)(1) security updates as necessary correct identified security deficiencies as part its risk management process.
 security- cookies with sensitive data (e.g. authentication cookies) are encrypted.
-security- data integrity scripts will run on weekly basis verify integrity database.
-security- database keys, connections, passwords, other secrets are not stored plain text.
-security- each conference room reservation will contain same information as was entered by user.
-security- encryption capability certain data transmissions that require security protection.
-security- fit criterion: dr susan poslusny karen sysol are only people who access final class section scheduling that interfaces with campusconnect.
-security- identify respond suspected known security incidents; mitigate, extent practicable, harmful effects security incidents that are known covered entity; document security incidents their outcomes.
-security- includes hardware, include documentation that covers expected physical environment necessary proper secure reliable operation including: electrical, hvac, sterilization, work area.
-security- security awareness training program members its workforce (including management).
-security- policies procedures that govern receipt removal hardware electronic media that contain electronic protected health information into out facility, movement these items within facility.
-security- policies procedures document repairs modifications physical components facility which are related security (for example, hardware, walls, doors, locks).
-security- procedures removal electronic protected health infoimplement policies procedures address final disposition electronic protected health information, possibly possibly hardware electronic media on which it is stored.rmation electronic media before media are made available re-use.
-security- security measures ensure that electronically transmitted electronic protected health information is not improperly modified without detection until disposed of.
-security- it should possible assign access rights subsystems independently.
-security- measures are place prevent upload unauthorized files (e.g., executable files).
-security- no invalid data entered into system.
-security- only authorized users access clinical site information.
-security- only registered realtors able access system.
-security- only valid data entered into system.
-security- private sensitive data (for example, passwords) are not logged
-security- program administrators nursing staff members are only people who access clinical site details.
-security- remote administration channels are secured (e.g., ssl, vpn)
-security- security measures implemented comply with standards implementation specifications adopted under â§164.105 subpart must reviewed modified as needed continue provision reasonable appropriate protection electronic protected health information as described at â§164.316.
-security- sensitive data is not stored persistent cookies.
-security- session state is protected unauthorized access.
-security- allows users re-authenticate remotely log out active user session before logging at another location.
-security- avoids un-trusted input file name file paths.
-security- encrypts passwords before being stored transmitted.
-security- insures that input validation is applied whenever input is received through user external data interfaces.
-security- provides web (https) interface provides ssl configuration mechanism.
-security- provides secure information delivery over internet via encryption by using triple-des (data encryption standard) advanced encryption standard (aes)
-security- returns generic error messages client, avoid disclosure sensitive information.
-security- temporary objects are removed system, database connections are closed, memory is released.
-security- disputes application ensure that only users with appropriate access level are allowed initiate dispute requests.
-security- first screen gives some general instructions ensures file directory permissions are set up correctly.
-security- healthcare information management systems society (himss) provides aâ risk assessment toolkitâ conducting risk assessment developing compliant security plan.
-security- itrust user (patient hcp) been authenticated itrust medical records (uc3).
-security- itrust user authenticated himself herself itrust medical records (uc3).
-security- patient authenticated himself herself itrust medical records (uc3).
-security- ensure that only company employees external users with company-approved user ids may access.
-security- information security.
-security- will able distinguish between authorized unauthorized users access attempts
-security- purpose criteria is provide ability remove user's privileges, but maintain history user system.
-security- software used install update system, independent mode method conveyance, certified free malevolent software (malware).
-security- provides error-handling processes.
-security- enable multiple simultaneous users, each with his her own exclusive authentication.
-security- basic data integrity checking reduce possibility incorrect invalid data being introduced.
-security- ability support 128-bit ssl encryption, higher, between client browser application tier any modules sub-modules at organization discretion.
-security- include documentation available customer that provides guidelines configuration use security controls necessary support secure reliable operation system, including but not limited to: creation, modification, deactivation user accounts, management roles, reset passwords, configuration password constraints, audit logs.
-security- prevent malicious attacks including denial service.
-security- provide expiration dates passwords.
-security- support protection confidentiality protected health information (phi) delivered over internet other known open networks via encryption using triple-des (3des) advanced encryption standard (aes) open protocol such as tls, ssl, ipsec, xml encryptions, s mime their successors.
-security- system, when storing phi on any device intended portable removable (e.g. thumb-drives, cd-rom, pda, notebook), support use standards based encrypted format using triple-des (3des), advanced encryption standard (aes), their successors.
-security- user may try three times.
-security- web-enabled portions application meet state-of-the-art internet standards graphics design speed, reliability, security dynamic content user interaction.
-security- begin using openemr, navigate your server's installation directory log using your assigned username password.
-security- users must authenticated using their ibm intranet user name password.
-security- when answer security question is typed in, answer should not appear on screen (similar how password normally appears) answer should confirmed (by patient personal health representative) before it is saved.
-security- when passwords are used, support password strength rules that allow minimum number characters, inclusion alpha-numeric complexity.
-look feel- interface usability survey 80% beta testers must report that interface is appealing.
-usability- 100% cardmember services representatives able successfully create dispute case on first encounter after completing training course.
-usability- 70% registered users find solution their problem within 5 minutes using support site
-usability- 85% users will satisfied with product.
-usability- 90% users should able successfully use generate report on their first use.
+usability- registered users find solution their problem within 5 minutes using support site
+usability- users will satisfied with product.
+usability- users should able successfully use generate report on their first use.
 usability- new user able navigate through league team pages within 30 seconds reaching start-up page.
 usability- ccr users receive training before wcs is deployed.
 usability- callers supervisors must able accomplish any task within 2 minutes.
 usability- projected data must understandable.
 usability- note: clicking calendar button next 'dob' field will pop up easy use date selection tool found throughout openemr program.
-usability- on 10x10 projection screen 90% viewers must able read event activity data viewing distance 30
-usability- rreports must easy generate.
+usability- projection screen 90% viewers must able read event activity data viewing distance 30
+usability- reports must easy generate.
 usability- data elements required complete job function, whether inquire read only data entry must readily available.
 usability- interface should adhere ibm usability standards.
 usability- easy realtor learn.
@@ -184,12 +83,4 @@ usability- easy use
 usability- learned with two days onsite training
 usability- increase productivity collision estimators.
 usability- proposer allow field level edit checks transactions during data entry provide immediate user feedback, including error messages possible corrective actions
-usability- ability display critical relevant data when creating orders.
-usability- must use point click interface.
-usability- easy use by callers supervisors.
-usability- used by realtors with no training.
-usability- ability restrict free form entry (e.g., provide drop down calendar date field)
-usability- provide templates inputting data structured format as part clinical documentation.
-usability- user interface integrate information multiple components into unified display by business area work type.
-usability- wcs use appropriate nomenclature terminology as defined by corporate community grants organization.
-usability- with week training prior implementation 98% users complete their budgets within stipulated time.
+
