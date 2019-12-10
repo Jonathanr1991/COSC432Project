@@ -7,36 +7,39 @@ import numpy.random as r
 from sklearn.metrics import accuracy_score
 # list of text documents
 filepath = "testing_clean.txt"
-
 textfile = open(filepath, "r")
-
 input = []
 output = []
-
 for text in textfile:
-    output.append(text[text.find("-")+2:])
-    input.append(text[:text.find("-")])
-  
+    input.append(text[text.find("-")+2:text.find("\n")])
+    if ("performance" in text):
+        output.append(0)
+    if ("maintainability" in text):
+         output.append(1)
+    if ("operational" in text):
+         output.append(2)
+    if ("security" in text):
+         output.append(3)
+    if ("usability" in text):
+         output.append(4) 
+input= input[:-1]
+
 # create the transform
 vectorizer = TfidfVectorizer()
 # tokenize and build vocab
 vectorizer.fit(input)
-
 # summarize
-
 # encode document
 vector = vectorizer.transform(input)
-
 X_scale = StandardScaler()
 X = X_scale.fit_transform(vector.toarray())
 
-y = output
+y=output
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.001 )
-
-
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4 )
+#represents the number of outside nodes. this case is 5 because they are 5 categories
 def convert_y_to_vect(y):
-    y_vect = np.zeros((len(y), 4))
+    y_vect = np.zeros((len(y), 5))
     for i in range(len(y)):
         y_vect[i, y[i]] = 1
     return y_vect
@@ -45,7 +48,7 @@ y_v_test = convert_y_to_vect(y_test)
 
 
 
-nn_structure = [1010, 20, 4]
+nn_structure = [535, 50, 5]
 
 def f(x):
     return 1 / (1 + np.exp(-x))
@@ -90,7 +93,7 @@ def calculate_hidden_delta(delta_plus_1, w_l, z_l):
     # delta^(l) = (transpose(W^(l)) * delta^(l+1)) * f'(z^(l))
     return np.dot(np.transpose(w_l), delta_plus_1) * f_deriv(z_l)
 
-def train_nn(nn_structure, X, y, iter_num=3000, alpha=2.05):
+def train_nn(nn_structure, X, y, iter_num=30000, alpha=2.05):
     W, b = setup_and_init_weights(nn_structure)
     cnt = 0
     m = len(y)

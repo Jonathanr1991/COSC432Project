@@ -1,5 +1,5 @@
-capacity performance- aside server failure software achieve 99.99% up time
-capacity performance- on 56k connection response time operations must no more than 6 seconds 90% time
+capacity performance- aside server failure software achieve 99.99 up time
+capacity performance- on 56k connection response time operations must no more than 6 seconds 90 time
 capacity performance- audit report returned within 10 seconds
 capacity performance- disputes application support 350 concurrent users without any degradation performance application
 capacity performance- preferred repair facility ratings saved within 5 seconds
@@ -8,10 +8,10 @@ capacity performance- able support multiple remote users
 capacity performance- generate cma report acceptable time
 capacity performance- provide multi-threading load balancing
 capacity performance- use symbols words that are naturally understandable by realtor community
-capacity performance- response time interface should not exceed 2 seconds 90% time
+capacity performance- response time interface should not exceed 2 seconds 90 time
 capacity performance- search recycled parts take no longer than 15 seconds
 capacity performance- server will support maximum 1 000 simultaneous users
-capacity performance- able handle average transaction load with average cpu utilization no more than 35%-40% cpu capacity
+capacity performance- able handle average transaction load with average cpu utilization no more than 35 40 cpu capacity
 capacity performance- cater 10 simultaneous users 9am 5pm
 capacity performance- refresh display every 60 seconds
 maintainability- it enters into memorandum understanding with business associate that contains terms that accomplish objectives paragraph
@@ -22,13 +22,13 @@ maintainability- changes updates additions wcs updated wcs developer wcs user gu
 maintainability- assign unique name possibly possibly number identifying tracking user identity
 maintainability- each emerging target market it take no more than 5 days configure that language
 maintainability- national drug code directory
-maintainability- appointments are listed format mm/dd/yyyy - appointmenttype
-maintainability- asc x12n 8payroll deducted other group premium payment insurance products, version 4010, may 2000, washington publishing company, 004010x061, addenda payroll deducted other group premium payment insurance products, version 4010, october 2002, washington publishing company, 004010x061a1.
+maintainability- appointments are listed format mm/dd/yyyy appointmenttype
 maintainability- asc x12n 837â€”health care claim: dental, version 4010, may 2000, washington publishing company, 004010x097
 maintainability- implementation must use strategy pattern epidemic detection cause-of-death trends singleton pattern database connections
-maintainability- national council prescription drug programs (ncpdp) telecommunication standards implementaiton guide, version 5, release 1, september 1999, equivalent ncpdp batch standards batch implementation guide, version 1, release 1, (version 1.1), january 2000, supporting telecomunication version 5.1 ncpdp data record detail data record
 maintainability- ncpdp telecommunication standard implementation guide, version 5 release 1, september 1999, equivalent ncpdp batch standard batch implementation guide, version 1 release 0, february 1, 1996
 maintainability- must developed with j2se j2ee programming language libraries
+maintainability- national council prescription drug programs (ncpdp) equivalent ncpdp batch standard batch implementation guide, version 1, release 0, february 1, 1996, as referenced 
+maintainability- health plan may not offer incentive health care provider conduct transaction covered by part transaction described under exception provided 
 maintainability- adhere corporate architecture guidelines
 operational- 98% user workstations meet minimum hardware requirements prior implementation
 operational- adjustment requests must sent cardmember posting billing system
@@ -46,10 +46,10 @@ operational- supported using corporate support center
 operational- enable access any type development environment platform
 operational- interface with choiceparts once per day at approximately 1:00 am
 operational- will function alongside server software on any operating where java runtime can installed
-security- - does not accept file names file paths calling functions
-security-  protect against any reasonably anticipated threats hazards security integrity such information.
-security-  description process place ensuring improvements health outcomes, clinical quality, efficiency resulting adoption certified ehr technology by recipients medicaid incentive payments methodology verifying such information.
-security- right receive confidential communications protected health information as provided by â§164.522(b), as applicable;
+security- does not accept file names file paths calling functions
+security- protect against any reasonably anticipated threats hazards security integrity such information.
+security- description process place ensuring improvements health outcomes, clinical quality, efficiency resulting adoption certified ehr technology by recipients medicaid incentive payments methodology verifying such information.
+security- right receive confidential communications protected health information as provided by as applicable;
 security- customer service, including provision data analyses policy holders, plan sponsors, other customers, provided that protected health information is not disclosed such policy holder, plan sponsor, customer.
 security- patient authenticated him herself itrust medical records
 security- consider firewall that only allows port 443 (https) traffic server
@@ -60,22 +60,22 @@ security- additions new users modifications userâ€™s access recorded on use
 security- input parameters are validated (including form fields, query strings, cookies, http headers) 
 security- authenticated session ends when user logs out closes itrust application 
 security- apply appropriate sanctions against workforce members who fail comply with security policies procedures covered entity.
-security- conduct review security risk analysis accordance with requirements under 45 cfr 164.308(a)(1) security updates as necessary correct identified security deficiencies as part its risk management process.
+security- conduct review security risk analysis accordance with requirements under 45 cfr security updates as necessary correct identified security deficiencies as part its risk management process.
 security- cookies with sensitive data (e.g. authentication cookies) are encrypted.
 usability- registered users find solution their problem within 5 minutes using support site
 usability- users should able successfully use generate report on their first use.
 usability- new user able navigate through league team pages within 30 seconds reaching start-up page.
 usability- ccr users receive training before wcs is deployed.
 usability- callers supervisors must able accomplish any task within 2 minutes.
-usability- projected data must understandable.
+usability- projected data must understandable
 usability- note: clicking calendar button next 'dob' field will pop up easy use date selection tool found throughout openemr program.
 usability- projection screen 90% viewers must able read event activity data viewing distance 30
-usability- reports must easy generate.
+usability- reports must easy generate
 usability- data elements required complete job function, whether inquire read only data entry must readily available.
-usability- interface should adhere ibm usability standards.
-usability- easy realtor learn.
+usability- interface should adhere ibm usability standards
+usability- easy realtor learn
 usability- easy use
 usability- learned with two days onsite training
-usability- increase productivity collision estimators.
+usability- increase productivity collision estimators
 usability- proposer allow field level edit checks transactions during data entry provide immediate user feedback, including error messages possible corrective actions
 
