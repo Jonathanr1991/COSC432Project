@@ -6,12 +6,12 @@ import numpy as np
 import numpy.random as r
 from sklearn.metrics import accuracy_score
 # list of text documents
-filepath = "testing_clean.txt"
+filepath = "data_clean_2.txt"
 textfile = open(filepath, "r")
 input = []
 output = []
+
 for text in textfile:
-    input.append(text[text.find("-")+2:text.find("\n")])
     if ("performance" in text):
         output.append(0)
     if ("maintainability" in text):
@@ -22,7 +22,9 @@ for text in textfile:
          output.append(3)
     if ("usability" in text):
          output.append(4) 
-input= input[:-1]
+    input.append(text[text.find("-")+2:text.find("\n")])
+
+#input= input[:-1]
 
 # create the transform
 vectorizer = TfidfVectorizer()
@@ -47,8 +49,7 @@ y_v_train = convert_y_to_vect(y_train)
 y_v_test = convert_y_to_vect(y_test)
 
 
-
-nn_structure = [535, 50, 5]
+nn_structure = [947, 60, 5]
 
 def f(x):
     return 1 / (1 + np.exp(-x))
@@ -93,7 +94,8 @@ def calculate_hidden_delta(delta_plus_1, w_l, z_l):
     # delta^(l) = (transpose(W^(l)) * delta^(l+1)) * f'(z^(l))
     return np.dot(np.transpose(w_l), delta_plus_1) * f_deriv(z_l)
 
-def train_nn(nn_structure, X, y, iter_num=30000, alpha=2.05):
+
+def train_nn(nn_structure, X, y, iter_num=30000, alpha=0.3):
     W, b = setup_and_init_weights(nn_structure)
     cnt = 0
     m = len(y)

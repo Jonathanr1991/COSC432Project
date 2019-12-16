@@ -14,6 +14,37 @@ capacity performance- server will support maximum 1 000 simultaneous users
 capacity performance- able handle average transaction load with average cpu utilization no more than 35 40 cpu capacity
 capacity performance- cater 10 simultaneous users 9am 5pm
 capacity performance- refresh display every 60 seconds
+capacity performance- 90% tasks complete within 5 seconds.
+capacity performance- 98% tasks complete within 8 seconds.
+capacity performance- 10% time response time should not more than 10 seconds.
+capacity performance- no lead evaluation will complete time period longer than 25 seconds 97% leads processed.
+capacity performance- recreation inventory quantity adjustment period previous 30 days take no more than 30min.
+capacity performance- able handle user requests usage during business hours.
+capacity performance- average number recycled parts records per day 50 000.
+capacity performance- cma report returned no later 60 seconds after user entered cma report criteria.
+capacity performance- maximum wait time user navigating one screen another within disputes application no more than 5 seconds.
+capacity performance- peak cpu utilization never exceed 70% cpu capacity at any given time.
+capacity performance- process must fit within processing time conditions set forth by auto rep assignment process which lead is assigned within 3 minutes total life cycle.
+capacity performance- interface should fast.
+capacity performance- able handle 10 000 concurrent users within 2 years initial launch.
+capacity performance- able handle up 1500 simultaneous users.
+capacity performance- capable handling existing 1000 users.
+capacity performance- capable handling up 1 000 concurrent requests.
+capacity performance- maximum message processing time 2 seconds
+capacity performance- process messages within 2 seconds.
+capacity performance- provide multi-threading technology as well as load balancing overcome data load spikes traffic.
+capacity performance- respond fast keep up-to-date data display.
+capacity performance- recycled parts audit report returned user within 10 seconds.
+capacity performance- response time most common requests reach user not exceed 3 seconds.
+capacity performance- response time fast enough maintain flow game.
+capacity performance- response time no more than 2 seconds 95% responses no more than 4% remaining responses.
+capacity performance- search preferred repair facility take no longer than 8 seconds.
+capacity performance- search results returned under 15 seconds.
+capacity performance- solution complete average 99% online update transactions under 5 seconds over any 60-minute period, during peak usage.
+capacity performance- solution track uptime transaction response times order demonstrate operation within acceptable levels.
+capacity performance- capable processing 100% nursing students their classes next 10 years.
+capacity performance- expected manage nursing program curriculum class clinical scheduling minimum 5 years.
+capacity performance- response time where average transaction on server needs occur on average less than 1 second.
 maintainability- it enters into memorandum understanding with business associate that contains terms that accomplish objectives paragraph
 maintainability- healthcare common procedure coding (hcpcs), as maintained distributed by hhs, other substances, equipment, supplies, other items used health care services, with exception drugs biologics
 maintainability- receive standard transaction on behalf covered entity translate it into nonstandard transaction (for example, nonstandard format possibly possibly nonstandard data content) transmission covered entity
@@ -22,6 +53,37 @@ maintainability- changes updates additions wcs updated wcs developer wcs user gu
 maintainability- assign unique name possibly possibly number identifying tracking user identity
 maintainability- each emerging target market it take no more than 5 days configure that language
 maintainability- national drug code directory
+maintainability- medical informatics.
+maintainability- orange book codes
+maintainability- php code will comply with pear standards.
+maintainability- must highly configurable use with various database management systems end users.
+maintainability- must run using internet explorer netscape navigator.
+maintainability- able continue operate with no interruption service due new resource additions.
+maintainability- internet browser independent.
+maintainability- database provide structured query language (sql) capabilities database queries.
+maintainability- database provide following features:
+maintainability- implementation adhere java coding standards.
+maintainability- implementation run on windows platform eclipse 3.3 environment.
+maintainability- continue operate during upgrade change new resource addition.
+maintainability- enable privacy by encryption ws-security integrity checking.
+maintainability- screens highly re-configurable, providing ability reposition rename field labels, remove unused fields, maintain data, allow addition custom-defined fields.
+maintainability- process linking local organism codes snomed loinc codes.
+maintainability- capability support birads categories 0-6
+maintainability- capability support breast imaging reporting data atlas (birads).
+maintainability- based upon proven state-of-the-art technologies.
+maintainability- implemented as java server page web application.
+maintainability- provide automated test script validate data after modifications upgrades
+maintainability- provide ability capture maintain, as discrete data, diagnosis problem code description associated with order any type (including prescriptions medications ordered administration).
+maintainability- provide ability capture patient vital signs, including blood pressure, heart rate, respiratory rate, height, weight, as discrete data.
+maintainability- provide ability capture, discrete field, allergy adverse reaction specific immunization.
+maintainability- store medication information discrete data fields.
+maintainability- support online data dictionary table relationships that describe maintain information on each data element including: data element name type, description data element, format each data element.
+maintainability- utilize naming conventions standards data elements, entities tables, programs, report names, etc.
+maintainability- utilize utilities database performance monitoring tuning that comply with industry standards, including but not limited tools table & file maintenance.
+maintainability- website should use flash provide animation on home page.
+maintainability- website will comply with w3c standards.
+maintainability- control open connections database, database access should done through object that uses singleton pattern.
+maintainability- use applicable medical data code sets described â§162.1002 as specified implementation specification adopted under part that are valid at time health care is furnished.
 maintainability- appointments are listed format mm/dd/yyyy appointmenttype
 maintainability- asc x12n 837â€”health care claim: dental, version 4010, may 2000, washington publishing company, 004010x097
 maintainability- implementation must use strategy pattern epidemic detection cause-of-death trends singleton pattern database connections
@@ -45,6 +107,37 @@ operational- able installed specified environment within 1 working day
 operational- supported using corporate support center
 operational- enable access any type development environment platform
 operational- interface with choiceparts once per day at approximately 1:00 am
+operational- disputes application interface with cardmember posting billing system.
+operational- disputes applications interface with merchant information database.
+operational- disputes must accessible by both internal external users.
+operational- maintenance will fall within established corporate maintenance windows.
+operational- merchant information database provides detailed information with regard merchant.
+operational- must able interface with any html browser.
+operational- must able interface with various database management systems.
+operational- must support mozilla firefox 1.0 above.
+operational- must work with most database management systems (dbms) on market whether dbms is colocated with on same machine is located on different machine on computer network.
+operational- available distribution as packaged cd.
+operational- available distribution via internet as binary zip file.
+operational- used office environments.
+operational- communicate successfully with database management on 100% transactions.
+operational- exchange messages between csr eam on real time basis without any direct interfaces between two systems.
+operational- interface csr datastream.
+operational- operate with every platform.
+operational- run on existing hardware environments.
+operational- will operate with oracle sql server db2 mysql hsql ms access.
+operational- will require collaboration with database management (dbms).
+operational- rfs should able easily interface with bdw environment order load data.
+operational- same hardware supporting current website will used support new system.
+operational- accommodate separate instances databases.
+operational- used within specifications defined by computers used by program administrators nursing staff members.
+operational- interface with student master server.
+operational- lock database records based on organization parameters (e.g., at row level, field level, at application level).
+operational- provide data import functionality receive standard format data external parties.
+operational- provide ability on-line access by any site connected organization wan.
+operational- utilize currently owned computer equipment.
+operational- wcs accessed by users through internet on ibm computer running windows 2000 above operating system.
+operational- wcs ability connect other designated wcs databases currently not included system.
+operational- can done mysql configuration (mydotcnf) file.
 operational- will function alongside server software on any operating where java runtime can installed
 security- does not accept file names file paths calling functions
 security- protect against any reasonably anticipated threats hazards security integrity such information.
@@ -55,6 +148,37 @@ security- patient authenticated him herself itrust medical records
 security- consider firewall that only allows port 443 (https) traffic server
 security- enforce strong unique passwords, which can set administration globals security
 security- passwords should held standard required change at intervals.
+security- software tester login password.
+security- consider adding specific sqlconfdotphp override settings when using patient portal (especially onsite portal), which can used use separate mysql user (and possibly database).
+security- do not allow direct web access following directories
+security- ensure root password is set something.
+security- not using portal want allow users access over internet, then consider using client-sided certificates only allow users access site
+security- on server, consider only opening port 443 (https).
+security- only allow https (ie turn off http)
+security- third party portal could also set up ssh tunnel method, so local openemr instance is not open web (and possibly not even require ip address).
+security- third party portal could set up certificate identify their server as option further secure.
+security- administration interfaces require strong authentication authorization.
+security- after installation is finished, then secure files (this should done as root user):
+security- authorized users once authenticated must able logon disputes
+security- credit card information will encrypted database.
+security- user accounts are identified.
+security- updates data files database must initiated disputes system.
+security- example reflexive testing is when confirmatory test is automatically ordered after screening test is positive.
+security- remember that openemr's username passwords are case sensitive.
+security- attempts access resources using parent paths are blocked.
+security- conduct accurate thorough assessment potential risks vulnerabilities confidentiality, integrity, availability electronic protected health information held by covered entity.
+security- configuration credentials authentication tokens are not held plain text configuration files.
+security- configuration stores are secured unauthorized access tampering.
+security- cryptographic algorithm key size systemâ€™s data encryption requirements is aes 256 bit stronger.
+security- customer will no longer able access website.
+security- data is validated type, length, format, range.
+security- data recipient use appropriate safeguards protect iihi misuse inappropriate disclosure prevent any use disclosure iihi other than as provided dua as otherwise required by law regulation.
+security- database file encryption protection sensitive data fields while data is at rest (i.e., stored data) is provided.
+security- database will mark account as inactive user will not able log into website
+security- each team owner will need use username password order authenticated reach team ownerâ€™s page
+security- electronic sessions must terminate after ten minutes inactivity.
+security- encryption keys are secured.
+security- ensure that authentication is reset after period inactivity that exceeds ten minutes.
 security- ability administrator delegate authority, by user group, restore access locked out user
 security- additions new users modifications userâ€™s access recorded on user report 
 security- input parameters are validated (including form fields, query strings, cookies, http headers) 
@@ -67,6 +191,37 @@ usability- users should able successfully use generate report on their first use
 usability- new user able navigate through league team pages within 30 seconds reaching start-up page.
 usability- ccr users receive training before wcs is deployed.
 usability- callers supervisors must able accomplish any task within 2 minutes.
+usability- user able use without instruction after short amount time.
+usability- after informally navigating less than 15 minutes users able successfully setup meetings reserve conference rooms.
+usability- interfaces reports will undergo usability tests by ccr users.
+usability- users able use after one day training.
+usability- callers supervisors learn how use within 10 minutes.
+usability- every registered user will access product support site via internet.
+usability- integration new maps with possible with little no support support staff.
+usability- intelligent spell checking text fields
+usability- that 'add new issue' dialog also uses openemr date selection tool described earlier.
+usability- that source pay date previous window been copied over; saves time common case where single check insurance company pays multiple claims.
+usability- one training session will held 100% ccr users before deployment (based on ccr user being available)
+usability- on-line, interactive help with support hyperlink technology industry standard formats (e.g.,â html file formats)
+usability- staff members able complete set tasks timely manner.
+usability- application ask user confirm dropping player trading player before performing action.
+usability- enterer editor is presented with success failure message form is updated so that enterer editor may correct form add more information.
+usability- form validation show errors fields form at same time.
+usability- list dispute cases that are displayed after search is performed must color coded easy identification dispute cases based upon dispute case status.
+usability- number mistakes noted by students decreased by 50% first year.
+usability- easy administrators dbas use after two weeks usage.
+usability- easy learn by adjusters collision estimators.
+usability- installed by untrained realtor without recourse separately-printed instructions.
+usability- intuitive self-explanatory.
+usability- give users feedback when necessary.
+usability- intuitive user interface.
+usability- make users want use it.
+usability- use standard navigation menu familiar most web users.
+usability- response fast enough avoid interrupting flow thought.
+usability- capability voice recognition.
+usability- capability alert user lookalike sound alike drugs.
+usability- capability detect duplicate orders issuing visual auditory warnings.
+usability- allow option auto-fill capability per transaction field entry throughout modules
 usability- projected data must understandable
 usability- note: clicking calendar button next 'dob' field will pop up easy use date selection tool found throughout openemr program.
 usability- projection screen 90% viewers must able read event activity data viewing distance 30

@@ -1,0 +1,233 @@
+capacity performance- aside server failure software achieve 9999 time
+capacity performance- 56k connection response time operations 6 seconds 90 time
+capacity performance- audit report returned within 10 seconds
+capacity performance- disputes application support 350 concurrent users without degradation performance application
+capacity performance- preferred repair facility ratings saved within 5 seconds
+capacity performance- support 1000 simultaneous users
+capacity performance- support multiple remote users
+capacity performance- generate cma report acceptable time
+capacity performance- provide multi-threading load balancing
+capacity performance- use symbols words naturally understandable realtor community
+capacity performance- response time interface exceed 2 seconds 90 time
+capacity performance- search recycled parts take longer 15 seconds
+capacity performance- server support maximum 1 000 simultaneous users
+capacity performance- handle average transaction load average cpu utilization 35 40 cpu capacity
+capacity performance- cater 10 simultaneous users 9am 5pm
+capacity performance- refresh display every 60 seconds
+capacity performance- 90 tasks complete within 5 seconds
+capacity performance- 98 tasks complete within 8 seconds
+capacity performance- 10 time response time 10 seconds
+capacity performance- lead evaluation complete time period longer 25 seconds 97 leads processed
+capacity performance- recreation inventory quantity adjustment period previous 30 days take 30min
+capacity performance- handle user requests usage business hours
+capacity performance- average number recycled parts records per day 50 000
+capacity performance- cma report returned later 60 seconds user entered cma report criteria
+capacity performance- maximum wait time user navigating one screen another within disputes application 5 seconds
+capacity performance- peak cpu utilization never exceed 70% cpu capacity given time
+capacity performance- process fit within processing time conditions set forth auto rep assignment process lead assigned within 3 minutes total life cycle
+capacity performance- interface fast
+capacity performance- handle 10 000 concurrent users within 2 years initial launch
+capacity performance- handle 1500 simultaneous users
+capacity performance- capable handling existing 1000 users
+capacity performance- capable handling 1 000 concurrent requests
+capacity performance- maximum message processing time 2 seconds
+capacity performance- process messages within 2 seconds
+capacity performance- provide multi-threading technology well load balancing overcome data load spikes traffic
+capacity performance- respond fast keep up-to-date data display
+capacity performance- recycled parts audit report returned user within 10 seconds
+capacity performance- response time common requests reach user exceed 3 seconds
+capacity performance- response time fast enough maintain flow game
+capacity performance- response time 2 seconds 95% responses 4% remaining responses
+capacity performance- search preferred repair facility take longer 8 seconds
+capacity performance- search results returned 15 seconds
+capacity performance- solution complete average 99 online update transactions 5 seconds 60-minute period peak usage
+capacity performance- solution track uptime transaction response times order demonstrate operation within acceptable levels
+capacity performance- capable processing 100 nursing students classes next 10 years
+capacity performance- expected manage nursing program curriculum class clinical scheduling minimum 5 years
+maintainability- enters memorandum understanding business associate contains terms accomplish objectives paragraph
+maintainability- healthcare common procedure coding hcpcs maintained distributed hhs substances equipment supplies items used health care services exception drugs biologics
+maintainability- receive standard transaction behalf covered entity translate nonstandard transaction example nonstandard format possibly possibly nonstandard data content transmission covered entity
+maintainability- customers receive automatic software updates transmitted installed
+maintainability- changes updates additions wcs updated wcs developer wcs user guides
+maintainability- assign unique name possibly possibly number identifying tracking user identity
+maintainability- emerging target market take 5 days configure language
+maintainability- national drug code directory
+maintainability- medical informatics
+maintainability- orange book codes
+maintainability- php code comply pear standards
+maintainability- highly configurable use various database management systems end users
+maintainability- run using internet explorer netscape navigator
+maintainability- continue operate interruption service due new resource additions
+maintainability- internet browser independent
+maintainability- database provide structured query language sql capabilities database queries
+maintainability- database provide following features
+maintainability- implementation adhere java coding standards
+maintainability- implementation run windows platform eclipse 33 environment
+maintainability- continue operate upgrade change new resource addition
+maintainability- enable privacy encryption integrity checking
+maintainability- screens highly re-configurable, providing ability reposition rename field labels remove unused fields maintain data allow addition custom defined fields
+maintainability- process linking local organism codes codes
+maintainability- capability support categories 06
+maintainability- capability support breast imaging reporting data atlas birads
+maintainability- based upon proven state art technologies
+maintainability- implemented java server page web application
+maintainability- provide automated test script validate data modifications upgrades
+maintainability- provide ability capture maintain discrete data diagnosis problem code description associated order type including prescriptions medications ordered administration
+maintainability- provide ability capture patient vital signs including blood pressure heart rate respiratory rate height weight discrete data
+maintainability- provide ability capture discrete field allergy adverse reaction specific immunization
+maintainability- store medication information discrete data fields
+maintainability- support online data dictionary table relationships describe maintain information data element including data element name type description data element format data element
+maintainability- utilize naming conventions standards data elements, entities tables programs report names etc
+maintainability- utilize utilities database monitoring tuning comply industry standards including limited tools table file maintenance
+maintainability- website use flash provide animation home page
+maintainability- website comply w3c standards
+maintainability- control open connections database, database access done object uses singleton pattern.
+maintainability- use applicable medical data code sets described 162 1002 specified implementation specification adopted part valid time health care furnished
+maintainability- appointments listed format mm/dd/yyyy appointmenttype
+maintainability- asc x12n health care claim: dental version 4010 may 2000 washington publishing company 004010x097
+maintainability- implementation use strategy pattern epidemic detection cause-of-death trends singleton pattern database connections
+maintainability- ncpdp telecommunication standard implementation guide version 5 release 1 september 1999, equivalent ncpdp batch standard batch implementation guide version 1 release 0 february 1 1996
+maintainability- developed j2se j2ee programming language libraries
+maintainability- national council prescription drug programs ncpdp equivalent ncpdp batch standard batch implementation guide version 1 release 0 february 1 1996 referenced
+maintainability- health plan may offer incentive health care provider conduct transaction covered part transaction described exception provided
+maintainability- adhere corporate architecture guidelines
+operational- 98% user workstations meet minimum hardware requirements prior implementation
+operational- adjustment requests sent cardmember posting billing
+operational- merchant detail information obtained merchant information database
+operational- first install configure mysql apache another php-capable webserver php5
+operational- minimum hard disk space 400mb
+operational- installations upgrades handled middleware technology team within established launch time frames
+operational- restricts access financial transactions sensitive data authorized users outside county intranet read mode
+operational- dbms may located machine separate machine residing computer network
+operational- disputes application interface statement database
+operational- lead washing process operate within established physical web service structure
+operational- support internet explorer 5 5
+operational- installed specified environment within 1 working day
+operational- supported using corporate support center
+operational- enable access type development environment platform
+operational- interface choiceparts per day approximately 1 00
+operational- disputes application interface cardmember posting billing
+operational- disputes applications interface merchant information database
+operational- disputes accessible internal external users
+operational- maintenance fall within established corporate maintenance windows
+operational- merchant information database provides detailed information regard merchant
+operational- interface html browser
+operational- interface various database management systems
+operational- support mozilla firefox 1 0
+operational- work database management systems dbms market whether dbms colocated machine located different machine computer network
+operational- available distribution packaged cd
+operational- available distribution via internet binary zip file
+operational- used office environments
+operational- communicate successfully database management 100 transactions
+operational- exchange messages csr eam real time basis without direct interfaces two systems.
+operational- interface csr datastream
+operational- operate every platform
+operational- run existing hardware environments
+operational- operate oracle sql server db2 mysql hsql ms access
+operational- require collaboration database management dbms
+operational- rfs easily interface bdw environment order load data
+operational- hardware supporting current website used support new
+operational- accommodate separate instances databases
+operational- used within specifications defined computers used program administrators nursing staff members
+operational- interface student master server
+operational- lock database records based organization parameters row level field level application level
+operational- provide data import functionality receive standard format data external parties
+operational- provide ability line access site connected organization wan
+operational- utilize currently owned computer equipment
+operational- wcs accessed users internet ibm computer running windows 2000 operating
+operational- wcs ability connect designated wcs databases currently included
+operational- done mysql configuration (mydotcnf) file
+operational- function alongside server software operating java runtime installed
+security- accept file names file paths calling functions
+security- protect reasonably anticipated threats hazards security integrity information
+security- right receive confidential communications protected health information provided applicable
+security- customer service including provision data analyses policy holders plan sponsors customers provided protected health information disclosed policy holder plan sponsor customer
+security- patient authenticated itrust medical records
+security- consider firewall allows port 443 traffic server
+security- enforce strong unique passwords, set administration globals security
+security- passwords held standard required change intervals
+security- software tester login password
+security- consider adding specific sqlconfdotphp override settings using patient portal (especially onsite portal), used use separate mysql user possibly database
+security- allow direct web access following directories
+security- ensure root password set something
+security- using portal allow users access internet consider using client-sided certificates allow users access site
+security- server consider opening port 443
+security- allow https
+security- third party portal also set ssh tunnel method local opener instance open web possibly even require ip address
+security- third party portal set certificate identify server option secure
+security- administration interfaces require strong authentication authorization
+security- installation finished, secure files done root user
+security- authorized users authenticated logon disputes
+security- credit card information encrypted database
+security- user accounts identified
+security- updates data files database initiated disputes
+security- example reflexive testing confirmatory test automatically ordered screening test positive
+security- remember openemr username passwords case sensitive
+security- attempts access resources using parent paths blocked
+security- conduct accurate thorough assessment potential risks vulnerabilities confidentiality integrity availability electronic protected health information held covered entity
+security- configuration credentials authentication tokens held plain text configuration files
+security- configuration stores secured unauthorized access tampering
+security- cryptographic algorithm key size data encryption requirements 256 bit stronger
+security- customer longer access website
+security- data validated type length format range
+security- data recipient use appropriate safeguards protect misuse inappropriate disclosure prevent use disclosure iihi provided dua otherwise required law regulation
+security- database file encryption protection sensitive data fields data rest stored data provided
+security- database mark account inactive user log website
+security- team owner need use username password order authenticated reach team owners page
+security- electronic sessions terminate ten minutes inactivity
+security- encryption keys secured
+security- ensure authentication reset period inactivity exceeds ten minutes
+security- ability administrator delegate authority user group restore access locked user
+security- additions new users modifications users access recorded user report
+security- input parameters validated including form fields query strings cookies http headers
+security- authenticated session ends user logs closes trust application
+security- apply appropriate sanctions workforce members fail comply security policies procedures covered entity.
+security- conduct review security risk analysis accordance requirements security updates necessary correct identified security deficiencies part risk management process
+security- cookies sensitive data authentication cookies encrypted
+usability- registered users find solution problem within 5 minutes using support site
+usability- users successfully use generate report first use
+usability- new user navigate league team pages within 30 seconds reaching start page
+usability- users receive training wcs deployed
+usability- callers supervisors accomplish task within 2 minutes
+usability- user use without instruction short amount time
+usability- informally navigating less 15 minutes users successfully setup meetings reserve conference rooms
+usability- interfaces reports undergo usability tests users
+usability- users use one day training
+usability- callers supervisors learn use within 10 minutes
+usability- every registered user access support site via internet
+usability- integration new maps possible little support support staff
+usability- intelligent spell checking text fields
+usability- add new issue dialog also uses opener date selection tool described earlier
+usability- source pay date previous window copied saves time common case single check insurance company pays multiple claims
+usability- one training session held 100 users deployment based user available
+usability- on-line interactive help support hyperlink technology industry standard formats html file formats
+usability- staff members complete set tasks timely manner
+usability- application ask user confirm dropping player trading player performing action
+usability- enterer editor presented success failure message form updated enterer editor may correct form add information
+usability- form validation show errors fields form time
+usability- list dispute cases displayed search performed color coded easy identification dispute cases based upon dispute case status
+usability- number mistakes noted students decreased 50% first year
+usability- easy administrators dbas use two weeks usage
+usability- easy learn adjusters collision estimators
+usability- installed untrained realtor without recourse separately-printed instructions.
+usability- intuitive self explanatory
+usability- give users feedback necessary
+usability- intuitive user interface
+usability- make users use
+usability- use standard navigation menu familiar web users
+usability- response fast enough avoid interrupting flow thought
+usability- capability voice recognition
+usability- capability alert user lookalike sound alike drugs
+usability- capability detect duplicate orders issuing visual auditory warnings
+usability- allow option auto fill capability per transaction field entry throughout modules
+usability- projected data understandable
+usability- note clicking calendar button next dob field pop easy use date selection tool found throughout opener program
+usability- projection screen 90 viewers read event activity data viewing distance 30
+usability- reports easy generate
+usability- data elements required complete job function whether inquire read data entry readily available
+usability- interface adhere ibm usability standards
+usability- easy realtor learn
+usability- easy use
+usability- learned two days onsite training
+usability- increase productivity collision estimators
+usability- proposer allow field level edit checks transactions data entry provide immediate user feedback, including error messages possible corrective actions
